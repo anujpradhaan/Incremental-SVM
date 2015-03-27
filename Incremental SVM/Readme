@@ -1,0 +1,2 @@
+All the jars are performing Parallel Operations and Folder named svmglobal,incrementalGlobalSvm and EnsembleAccuracy are the sequential tasks.
+Other remaining folders are kept as backup for all the available jars.
